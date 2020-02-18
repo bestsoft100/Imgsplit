@@ -1,3 +1,3 @@
 # Imgsplit
 
-![Alt-Text](/imgsplit-demo.png)
+![Demo](Imgsplit-Demo.png)
